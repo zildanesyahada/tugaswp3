@@ -27,7 +27,7 @@ class DatabaseSeeder extends Seeder
             'role' => 0,
             'status' => 1,
             'hp' => '081234567892',
-            'password' => bcrypt('P@55word'),
+            'password' => bcrypt('sopian'),
         ]);
     }
 }
